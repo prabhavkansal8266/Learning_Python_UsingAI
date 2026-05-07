@@ -1,0 +1,4 @@
+print("Hii, I am Rudraaa")
+
+for i in range(10):
+    print("Prabhav")
